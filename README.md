@@ -2,5 +2,5 @@
 tecnologias utilizadas 
 power point
 power bi
-exel 
+excel 
 canvas 
